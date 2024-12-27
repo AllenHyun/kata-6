@@ -1,9 +1,12 @@
-package software.ulpgc.kata6;
+package software.ulpgc.kata6.control.commands;
+
+import software.ulpgc.kata6.model.WorkingDaysCalendar;
+import software.ulpgc.kata6.control.Command;
 
 import java.time.LocalDate;
 import java.util.Iterator;
 
-public class WorkingDaysCommand implements Command{
+public class WorkingDaysCommand implements Command {
     private final Input input;
     private final Output output;
 

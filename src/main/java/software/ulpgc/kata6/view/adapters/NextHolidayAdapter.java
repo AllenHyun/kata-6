@@ -1,7 +1,8 @@
-package software.ulpgc.kata6;
+package software.ulpgc.kata6.view.adapters;
 
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
+import software.ulpgc.kata6.control.commands.NextHolidayCommand;
 
 import java.io.IOException;
 import java.time.LocalDate;

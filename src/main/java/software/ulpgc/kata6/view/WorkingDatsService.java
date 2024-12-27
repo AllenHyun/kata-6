@@ -1,8 +1,15 @@
-package software.ulpgc.kata6;
+package software.ulpgc.kata6.view;
 
 import io.javalin.Javalin;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
+import software.ulpgc.kata6.control.CommandFactory;
+import software.ulpgc.kata6.control.commands.NextHolidayCommand;
+import software.ulpgc.kata6.control.commands.WorkingDateCommand;
+import software.ulpgc.kata6.control.commands.WorkingDaysCommand;
+import software.ulpgc.kata6.view.adapters.NextHolidayAdapter;
+import software.ulpgc.kata6.view.adapters.WorkingDateAdapter;
+import software.ulpgc.kata6.view.adapters.WorkingDaysAdapter;
 
 public class WorkingDatsService {
     private final  int port;

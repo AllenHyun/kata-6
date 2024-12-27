@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="398466e3-f43a-4e1a-ab30-ff4ff29661a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/WorkingDatsService.java" afterDir="false" />
-    </list>
+    <list default="true" id="398466e3-f43a-4e1a-ab30-ff4ff29661a2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,13 +71,29 @@
       <option name="project" value="LOCAL" />
       <updated>1735295649954</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added WorkingDatsService">
+      <created>1735296200432</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735296200432</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added Main">
+      <created>1735296263719</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735296263719</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit, command classes created" />
     <MESSAGE value="Added CommandFactory and WorkingDaysCalendar" />
     <MESSAGE value="Added adapters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added adapters" />
+    <MESSAGE value="Added WorkingDatsService" />
+    <MESSAGE value="Added Main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Main" />
   </component>
 </project>

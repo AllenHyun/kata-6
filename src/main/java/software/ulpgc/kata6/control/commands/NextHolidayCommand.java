@@ -1,8 +1,11 @@
-package software.ulpgc.kata6;
+package software.ulpgc.kata6.control.commands;
+
+import software.ulpgc.kata6.model.WorkingDaysCalendar;
+import software.ulpgc.kata6.control.Command;
 
 import java.time.LocalDate;
 
-public class NextHolidayCommand implements  Command{
+public class NextHolidayCommand implements Command {
     private final Input input;
     private final Output output;
 

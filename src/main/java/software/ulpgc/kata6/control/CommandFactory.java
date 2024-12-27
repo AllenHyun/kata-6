@@ -1,4 +1,4 @@
-package software.ulpgc.kata6;
+package software.ulpgc.kata6.control;
 
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
