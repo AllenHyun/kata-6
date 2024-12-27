@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="398466e3-f43a-4e1a-ab30-ff4ff29661a2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/NextHolidayAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/WorkingDateAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/WorkingDaysAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/WorkingDatsService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,12 +66,20 @@
       <option name="project" value="LOCAL" />
       <updated>1735295004603</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added adapters">
+      <created>1735295649954</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735295649954</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit, command classes created" />
     <MESSAGE value="Added CommandFactory and WorkingDaysCalendar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added CommandFactory and WorkingDaysCalendar" />
+    <MESSAGE value="Added adapters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added adapters" />
   </component>
 </project>
